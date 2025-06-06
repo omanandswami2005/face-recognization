@@ -13,7 +13,7 @@ import time
 import numpy as np
 
 # ----- Configuration -----
-QDRANT_URL = "https://853cbaa3-952c-4db7-9ff8-2d115a8a867a.us-east4-0.gcp.cloud.qdrant.io"  # Update with actual URL
+QDRANT_URL = "<URL>"  # Update with actual URL
 API_KEY = "<API_key>"  # Replace with your API key
 MONGO_URI = ""  # MongoDB connection URI
 DB_NAME = "FaceDB"
